@@ -28,6 +28,8 @@ For both datasets, height, width and area under the pulse give us characteristic
 * Both datasets are electrical measurements with sampling rate Fs = 250MHz
 * To convert dataset, here is one way to do it
 ```python
+import numpy as np
+
 inputSignal = np.fromfile(file='CHA.bin', dtype=np.int16)
 outputSignal = np.fromfile(file='CHB.bin', dtype=np.int16)
 ```
