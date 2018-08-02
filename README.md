@@ -1,6 +1,6 @@
 # Analyze this dataset
 
-# Problem 1: Tell me more about this data set
+# Tell me more about this data set
 Take a look at two time series data files, the data set is a single column data set 
 * signal_1.dat
 * signal_2.dat
