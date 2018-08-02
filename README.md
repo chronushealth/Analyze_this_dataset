@@ -17,5 +17,5 @@ For both datasets, height, width and area under the pulse give us characteristic
 * Signal_2 is a ideal single pulse. Using signal_2, what can you infer about signal_1
 * Can you infer anything about the noise characteristics
 
-## Time
-Not more than 2 hrs
+## Time required
+1 - 2 hrs
