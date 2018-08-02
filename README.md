@@ -18,7 +18,7 @@ For both datasets, height, width and area under the pulse give us characteristic
 * Can you infer anything about the noise characteristics?
 
 ## Time required
-1 - 2 hrs (Typical 1 hr)
+1 - 2 hrs 
 
 # Problem 2: Exploratory data set
 
@@ -39,7 +39,8 @@ outputSignal = np.fromfile(file='CHB.bin', dtype=np.int16)
 * Variations in signal intensity indicate events. Inferences are similar to Dataset 1, so amplitude of variation, width and area give characteristic information.
 
 ## Time
-Limit working on this dataset to 30 mins. 
+1 - 2 hrs 
+
 
 
 
