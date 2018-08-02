@@ -13,9 +13,9 @@ Take a look at two time series data files, the data set is a single column data 
 For both datasets, height, width and area under the pulse give us characteristic information about the event. 
 
 ## Task and questions
-* Use signal_1 to learn more about the event. What are you inferences
+* Use signal_1 to learn more about the event. What are your inferences
 * Signal_2 is a ideal single pulse. Using signal_2, what can you infer about signal_1
-* Can you infer anything about the noise characteristics
+* Can you infer anything about the noise characteristics?
 
 ## Time required
 1 - 2 hrs (Typical 1 hr)
