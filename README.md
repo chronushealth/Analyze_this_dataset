@@ -8,7 +8,7 @@ Take a look at two time series data files, the data set is a single column data 
 ## Information about the dataset
 * signal_1.dat is a measured signal for 1s. Data is sampled at Fs = 50MHz. Records multiple events. 
 * signal_2.dat is a single pulse giving characteristic information about an event occuring. 
-* Measurement are from an electrical signal
+* Both signals are electrical measurements
 
 For both datasets, height, width and area under the pulse give us characteristic information about the event. 
 
