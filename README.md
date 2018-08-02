@@ -33,10 +33,10 @@ import numpy as np
 inputSignal = np.fromfile(file='CHA.bin', dtype=np.int16)
 outputSignal = np.fromfile(file='CHB.bin', dtype=np.int16)
 ```
-* Variations in signal intensity indicate events. Inferences are similar to Dataset 1, so amplitude of variation, width and area give characteristic information.
 
 ## Task and questions
 * Tell us more about the relationships between the input and output. 
+* Variations in signal intensity indicate events. Inferences are similar to Dataset 1, so amplitude of variation, width and area give characteristic information.
 
 ## Time
 Limit working on this dataset to 30 mins. 
